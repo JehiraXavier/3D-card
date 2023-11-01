@@ -2,7 +2,7 @@ html,
 body {
   height: 100%;
   font-family: "Montserrat", sans-serif;
-  background-image: url(./background.webp);
+  background-image: url(images/background.webp);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
