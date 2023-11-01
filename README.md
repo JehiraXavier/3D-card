@@ -1,5 +1,13 @@
-# 3D effect Cards
+# 3D cards
 
-## Live Demo
+## Live demo
+[Demo](https://3d-effect-cards.netlify.app/)
 
-https://3d-effect-cards.netlify.app/
+![3D cards](https://res.cloudinary.com/dgm9zfiuo/image/upload/v1698862994/Portfolio%20projects/view_vlvygb.png)
+
+## Project summary
+
+### Technologies used
+* HTML
+* CSS
+* JavaScript
